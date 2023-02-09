@@ -1,0 +1,3 @@
+1234
+>>>>
+turning num into char.
